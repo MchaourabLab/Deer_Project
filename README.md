@@ -20,7 +20,7 @@ DEER (double electron-electron resonance) spectroscopy measures the distance bet
 
 
 # Purpose
-Develop a transformer model which can predict distribution of deer precisely
+It is easy for us to get the value of V(t) when we know P(r), but mathematically speaking, it is difficult to calculate P(r) from V(t). Therefore, we want to try to use mochine learning to simulate p(r) based on V(t)
 
 
 # Data
