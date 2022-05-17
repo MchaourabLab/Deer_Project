@@ -26,8 +26,11 @@ It is easy for us to get the value of V(t) when we know P(r), but mathematically
 # Data
 Data of this project is generated from some functions instead of being collected in experiment, which means we can have whatever kinds of data we want. 
 
+1. Generate distribution
+2. Noise level
+
 ## Data dictionary
-1. DeerLab v0.13.2
+
 
 ## Data security
 
@@ -79,6 +82,7 @@ The main files have names beginning with a 2 digit number representing the data 
 
 * nbdev
 * scikit learning
+* DeerLab v0.13.2
 
 # Contact Info
 
