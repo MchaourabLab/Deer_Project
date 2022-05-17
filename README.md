@@ -46,8 +46,6 @@ Project presentation: 05/03 on Tuesday
 
 
 # Repo Structure
-
-## [Rubic](https://github.com/dsi-teams-spring2022/bridgestone_RMST/blob/main/team_internal/performance_rubric.docx)
 Please note that any time someone updates the exported function, please note everyone by @channel in slack.
 The main files have names beginning with a 2 digit number representing the data science tasks the file addresses
 
