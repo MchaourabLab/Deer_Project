@@ -82,7 +82,7 @@ The main files have names beginning with a 2 digit number representing the data 
 
 * nbdev
 * scikit learning
-* DeerLab v0.13.2
+* [DeerLab v0.13.2](https://jeschkelab.github.io/DeerLab/index.html)
 
 # Contact Info
 
